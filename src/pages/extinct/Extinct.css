@@ -1,0 +1,95 @@
+.endangered-body{
+    background: url("../../img/forest_bg.png") top;
+}
+
+.endangered-list{
+    margin-left: 15vw;
+    margin-right: 15vw;
+    width: 70vw;
+    background-color: #000000b3;
+}
+
+.extinct-species{
+    padding-top: 10vh;
+}
+
+.extinct-title{
+    margin-inline: 4vw;
+    justify-items: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-style: groove;
+    border-width: 2px;
+    border-color: gray;
+}
+
+.extinct-tab{
+    display: flex;
+    justify-content: space-around;
+}
+
+.extinct-picture{
+    padding-right: 5vw;
+    padding-bottom: 5vh;
+    padding-top: 5vh;
+    top: 10vw;
+}
+
+.extinct-picture img{
+    border-radius: 25px;
+    max-width: 40vw;
+    max-height: 50vh;
+}
+
+ .extinct-info{
+    padding-top: 10vh;
+    padding-left: 5vw;
+    display: flex;
+    justify-self: flex-start;
+    flex-wrap: wrap;
+    font-size: 1.3em;
+    height: 1em;
+}
+
+.extinct-info p{
+    max-inline-size: 60vw;
+    width: 100%;
+    color: white;
+    height: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.extinct-description{
+    display: flex;
+    justify-content: space-around;
+}
+
+.extinct-description p{
+    padding: 3vb;
+    color: white;
+    font-size: 1.3em;
+    text-align: center;
+    box-shadow: 10px 10px rgb(140, 175, 0);
+    background-color: rgba(0, 0, 0, 0.5);
+    border-style: double;
+    border-width: 2px;
+    border-color: gray;
+}
+
+.description{
+    margin: 10vb;
+    margin-top: 0;
+}
+
+.extinct-description img{
+    margin-bottom: 5vh;
+    margin-right: 5vw;
+    box-shadow: 10px 10px gray;
+    border: black;
+    border-style: solid;
+    border-width: 2px;
+    object-fit: cover;
+    height: 100%;
+    max-width: 30vw;
+}

@@ -1,0 +1,33 @@
+[
+    {
+      "extinctName": "Tasmanian Tiger",
+      "scientificName": "Thylacinus cynocephalus",
+      "habitat": "Forests and grasslands of Tasmania, Australia",
+      "diet": "Carnivore",
+      "class": "Mammal",
+      "description": "The Tasmanian tiger, or thylacine, was a carnivorous marsupial native to Tasmania, Australia, and New Guinea. It had a dog-like appearance with distinctive stripes along its back. The species was declared extinct in the 20th century due to hunting, habitat destruction, and competition with introduced species like dogs. Despite numerous alleged sightings, no confirmed evidence of its existence has been found since the last known specimen died in captivity in 1936.",
+      "image": "../img/tasmanian_tiger.jpg",
+      "distributionMap": "../img/thylacine_map.png"
+    },
+    {
+      "extinctName": "Dodo",
+      "scientificName": "Raphus cucullatus",
+      "habitat": "Mauritius",
+      "diet": "Herbivore",
+      "class": "Bird",
+      "description": "The dodo was a flightless bird native to the island of Mauritius in the Indian Ocean. It became extinct in the late 1600s due to overhunting by sailors, habitat destruction, and the introduction of non-native animals such as rats and monkeys that ate its eggs. The dodo became an iconic symbol of extinction, as it disappeared only a few decades after being discovered by humans.",
+      "image": "../img/dodo.jpg",
+      "distributionMap": "../img/dodo_mauritius.png"
+    },
+    {
+      "extinctName": "Woolly Mammoth",
+      "scientificName": "Mammuthus primigenius",
+      "habitat": "Arctic tundra of North America, Europe, and Asia",
+      "diet": "Herbivore",
+      "class": "Mammal",
+      "description": "The woolly mammoth was a large, elephant-like mammal that roamed the icy landscapes of the Pleistocene epoch. Covered in thick fur to withstand the cold, it was a key species of the Ice Age. Mammoths became extinct around 4,000 years ago, likely due to climate change and overhunting by early humans. Some isolated populations survived on remote islands for thousands of years after most of their kind had disappeared.",
+      "image": "../img/mammoth.png",
+      "distributionMap": "../img/mammoth_map.png"
+    }
+  ]
+  
