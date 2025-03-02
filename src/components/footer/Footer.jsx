@@ -14,14 +14,14 @@ function Footer() {
                 <p>Our sections</p>
                 <li>Endangered</li>
                 <li>Extinct</li>
-                <li>Donate</li>
+                <li>Conservation</li>
             </ul>
         </div>
         <div>
             <ul>
                 <p>Eu Eu</p>
                 <li>My Github</li>
-                <li>Copyright</li>
+                <li>© Xtinct 2025 All rights reserved.</li>
             </ul>
         </div>
       </div>
