@@ -24,10 +24,7 @@ function Home() {
             alt="XTINCT LOGO"
           ></img>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+          "In every walk with nature one receives far more than he seeks." - John Muir
           </p>
           <div className="section-selector">
             <figure onClick={routeEndangered}>
@@ -44,7 +41,7 @@ function Home() {
           </div>
         </div>
         <hr></hr>
-        <h2>Who we are</h2>
+        <h2>About our page</h2>
         <div className="home-about">
           <img
             src="../../img/kenya_rhino.jpg"
@@ -52,10 +49,9 @@ function Home() {
             alt="Kenyan Black Rhino"
           ></img>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+            What drives us is the love for all animals and species, and one of our objectives is to shed light on the 
+            importancy of learning about and helping in the efforts to protect endangered species or restore those extinct.
+            Visit our different pages to learn about some of the species in our world!
           </p>
         </div>
       </div>

@@ -1,0 +1,66 @@
+{
+  "endangered": [
+    {
+      "speciesName": "Iberian Lynx",
+      "scientificName": "Lynx pardinus",
+      "habitat": "Southern Iberian Peninsula",
+      "diet": "Carnivore",
+      "class": "Mammal",
+      "description": "The Iberian lynx is the largest feline in southern Europe and one of the most endangered on the planet. It is a species endemic to the Iberian Peninsula and originally distributed throughout it. Currently, its population is composed of 1,365 specimens, which has allowed it to go from being classified as 'critically endangered' to 'endangered'. Slender and long-legged, it is unmistakable by its beard and black brushes at the tips of its ears. The coat is brown with dark patches of varying size and density depending on the individual. The short tail is characteristic of all lynxes in the world.",
+      "image": "../img/iberian_lynx.jpg",
+      "distributionMap": "../img/mapa_distribuicao_lynx_pardinus_2003.png"
+    },
+    {
+      "speciesName": "Black Rhino",
+      "scientificName": "Diceros bicornis",
+      "habitat": "Sub-Saharan Africa",
+      "diet": "Herbivore",
+      "class": "Mammal",
+      "description": "The black rhino is a species of rhinoceros native to eastern and southern Africa. Despite its name, its skin is not actually black but gray. The species has suffered a dramatic population decline due to poaching and habitat loss. It is known for its hooked upper lip, which it uses to grasp leaves and twigs from shrubs and trees. Unlike the larger white rhino, the black rhino is more solitary and has a more aggressive temperament.",
+      "image": "../img/black_rhino.png",
+      "distributionMap": "../img/black_rhino_range.png"
+    },
+    {
+      "speciesName": "Dugong",
+      "scientificName": "Dugong dugon",
+      "habitat": "Coastal waters of the Indian and Pacific Oceans",
+      "diet": "Herbivore",
+      "class": "Mammal",
+      "description": "The dugong is a large marine mammal that primarily feeds on seagrass. It is closely related to manatees and is the only living representative of the Dugongidae family. Dugongs are found in warm coastal waters from East Africa to Australia, including the Red Sea, Indian Ocean, and Pacific Ocean. They are slow-moving and rely on seagrass beds for sustenance, making them vulnerable to habitat destruction. Due to hunting, accidental entanglement in fishing gear, and habitat degradation, their populations have been declining.",
+      "image": "../img/dugong.jpg",
+      "distributionMap": "../img/dugong_area.png"
+    }
+  ],
+  "extinct": [
+    {
+      "extinctName": "Tasmanian Tiger",
+      "scientificName": "Thylacinus cynocephalus",
+      "habitat": "Forests and grasslands of Tasmania, Australia",
+      "diet": "Carnivore",
+      "class": "Mammal",
+      "description": "The Tasmanian tiger, or thylacine, was a carnivorous marsupial native to Tasmania, Australia, and New Guinea. It had a dog-like appearance with distinctive stripes along its back. The species was declared extinct in the 20th century due to hunting, habitat destruction, and competition with introduced species like dogs. Despite numerous alleged sightings, no confirmed evidence of its existence has been found since the last known specimen died in captivity in 1936.",
+      "image": "../img/tasmanian_tiger.jpg",
+      "distributionMap": "../img/thylacine_map.png"
+    },
+    {
+      "extinctName": "Dodo",
+      "scientificName": "Raphus cucullatus",
+      "habitat": "Mauritius",
+      "diet": "Herbivore",
+      "class": "Bird",
+      "description": "The dodo was a flightless bird native to the island of Mauritius in the Indian Ocean. It became extinct in the late 1600s due to overhunting by sailors, habitat destruction, and the introduction of non-native animals such as rats and monkeys that ate its eggs. The dodo became an iconic symbol of extinction, as it disappeared only a few decades after being discovered by humans.",
+      "image": "../img/dodo.jpg",
+      "distributionMap": "../img/dodo_mauritius.png"
+    },
+    {
+      "extinctName": "Woolly Mammoth",
+      "scientificName": "Mammuthus primigenius",
+      "habitat": "Arctic tundra of North America, Europe, and Asia",
+      "diet": "Herbivore",
+      "class": "Mammal",
+      "description": "The woolly mammoth was a large, elephant-like mammal that roamed the icy landscapes of the Pleistocene epoch. Covered in thick fur to withstand the cold, it was a key species of the Ice Age. Mammoths became extinct around 4,000 years ago, likely due to climate change and overhunting by early humans. Some isolated populations survived on remote islands for thousands of years after most of their kind had disappeared.",
+      "image": "../img/mammoth.png",
+      "distributionMap": "../img/mammoth_map.png"
+    }
+  ]
+}

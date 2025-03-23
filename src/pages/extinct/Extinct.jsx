@@ -1,9 +1,22 @@
+import { useState, useEffect } from "react";
 import Footer from "../../components/footer/Footer";
 import Header from "../../components/header/Header";
-import extinctData from "../../assets/json/extinct.json";
+import XtinctService from "../../services/xtinctService";
 import "./Extinct.css";
 
 function Extinct() {
+  const [extinctData, setExtinctData] = useState([]);
+
+  useEffect(() => {
+    XtinctService.getSpeciesByType("extinct")
+      .then((snapshot) => {
+        if (snapshot.exists()) {
+          setExtinctData(Object.values(snapshot.val()));
+        }
+      })
+      .catch((error) => console.error("Error fetching extinct species:", error));
+  }, []);
+
   return (
     <>
       <div className="endangered-body">
@@ -41,4 +54,4 @@ function Extinct() {
   );
 }
 
-export default Extinct;
+export default Extinct

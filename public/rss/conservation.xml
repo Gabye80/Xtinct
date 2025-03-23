@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Conservation Efforts</title>
+    <link>http://localhost:5173/rss/conservation.xml</link>
+    <description>Latest updates on wildlife conservation and restoration projects.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Scientists Revive Woolly Mice</title>
+      <link>https://www.nature.com/articles/d41586-025-00684-1</link>
+      <description>A breakthrough in genetic engineering has led to the revival of woolly mice, a species that once roamed icy terrains.</description>
+      <image>http://localhost:5173/img/wooly_mouse.jpg</image>
+    </item>
+
+    <item>
+      <title>New LIFE for the Iberian Lynx: 20 years of conservation success</title>
+      <link>https://cinea.ec.europa.eu/news-events/news/new-life-iberian-lynx-20-years-conservation-success-2024-09-10_en</link>
+      <description>After two decades of hard work to bring the Iberian Lynx back from the brink of extinction, one of LIFE’s main goals - to move this iconic species out of the Red List Endangered category - has been achieved ahead of schedule.</description>
+      <image>http://localhost:5173/img/lynx_life.png</image>
+    </item>
+
+    <item>
+      <title>Tasmanian Tiger Revival Project</title>
+      <link>https://www.sciencefocus.com/nature/tasmanian-tiger-breakthrough</link>
+      <description>A de-extinction project is working on bringing back the Tasmanian tiger through genetic cloning.</description>
+      <image>http://localhost:5173/img/tasmanian_tiger.jpg</image>
+    </item>
+
+  </channel>
+</rss>

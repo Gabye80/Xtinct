@@ -3,6 +3,7 @@ import Home from "./pages/home/Home";
 import Endangered from "./pages/endangered/Endangered";
 import Extinct from "./pages/extinct/Extinct";
 import Conservation from "./pages/Conservation/Conservation";
+import "./i18n";
 
 
 function App() {

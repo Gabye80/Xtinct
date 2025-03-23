@@ -4,6 +4,18 @@
   border: 0;
 }
 
+.language-selector {
+  margin: 10px;
+  margin-left: 58vw;
+  font-size: 14px;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: white;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+
 .header {
   position: sticky;
   display: flex;

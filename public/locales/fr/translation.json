@@ -1,0 +1,25 @@
+{
+  "labels": {
+    "speciesName": "Nom de l'espèce",
+    "scientificName": "Nom scientifique",
+    "habitat": "Habitat",
+    "diet": "Régime",
+    "class": "Classe"
+  },
+  "endangered": {
+    "Iberian Lynx": {
+      "speciesName": "Lynx ibérique",
+      "habitat": "Péninsule ibérique méridionale",
+      "diet": "Carnivore",
+      "class": "Mammifère",
+      "description": "Le lynx ibérique est le plus grand félin..."
+    },
+    "Black Rhino": {
+      "speciesName": "Rhinocéros noir",
+      "habitat": "Afrique subsaharienne",
+      "diet": "Herbivore",
+      "class": "Mammifère",
+      "description": "Le rhinocéros noir est une espèce..."
+    }
+  }
+}

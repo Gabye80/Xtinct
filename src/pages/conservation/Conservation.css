@@ -1,7 +1,101 @@
-.h1{
-    text-align: center;
+.conservation-body {
+  background: url("../../img/forest_bg.png") top;
 }
 
-.p{
-    text-align: center;
+.conservation-heading {
+  justify-items: center;
+  padding: 3vh;
+}
+
+.conservation-heading h1 {
+  padding: 3vh;
+  margin-bottom: 3vh;
+  font-size: 3em;
+  color: white;
+}
+
+.conservation-heading p {
+  inline-size: 40vw;
+  text-align: center;
+  font-size: large;
+  font-family: Georgia, serif;
+  color: white;
+  padding: 2em;
+  padding-left: 1em;
+  padding-top: 1.5em;
+  background-color: rgba(0, 105, 90, 0.8);
+  box-shadow: black 20px 20px 2px;
+  text-shadow: black 2px 2px 5px;
+}
+
+.rss {
+  display: flex;
+  margin-top: 3vh;
+}
+
+.rss a {
+  inline-size: auto;
+  text-align: center;
+  font-size: large;
+  font-family: Georgia, serif;
+  color: white;
+  margin-top: 1.5em;
+  padding: 1.2em;
+  background-color: rgba(0, 0, 0, 0.8);
+  box-shadow: none;
+  border: 2px;
+  border-color: orange;
+  border-style: dashed;
+  text-shadow: black 2px 2px 5px;
+  margin-top: 3vh;
+}
+
+.rss img {
+  width: auto;
+  height: 2em;
+  margin-bottom: -0.7em;
+  margin-left: 1em;
+}
+
+.conservation-list {
+  margin-left: 15vw;
+  margin-right: 15vw;
+  width: 70vw;
+  background-color: #000000b3;
+}
+
+.news-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 5vh;
+  padding-inline: 2vw;
+}
+
+.news-card {
+  width: 100%;
+  background-color: rgb(241, 241, 241);
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin: 10px 0;
+  padding-block: 1em;
+  text-decoration: none;
+}
+
+.news-card img {
+  width: 95%;
+  height: 15vh;
+  border-radius: 15px;
+  object-fit: cover;
+  transition: 0.2s ease-out;
+}
+
+.news-card:hover{
+    cursor: pointer;
+}
+
+.news-card:hover img{
+    height: 30vh;
+    transition: 0.5s ease-in-out;
 }

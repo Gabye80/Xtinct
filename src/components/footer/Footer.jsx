@@ -12,15 +12,15 @@ function Footer() {
         <div>
             <ul>
                 <p>Our sections</p>
-                <li>Endangered</li>
+                <li href="/endangered">Endangered</li>
                 <li>Extinct</li>
                 <li>Conservation</li>
             </ul>
         </div>
         <div>
             <ul>
-                <p>Eu Eu</p>
-                <li>My Github</li>
+                <p>My socials.</p>
+                <li><img src="/img/github_icon.png"/> Github</li>
                 <li>© Xtinct 2025 All rights reserved.</li>
             </ul>
         </div>
