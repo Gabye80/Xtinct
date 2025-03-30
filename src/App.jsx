@@ -13,6 +13,7 @@ function App() {
       <Routes>
         <Route path="/home" element={<Home/>}/>
         <Route path="*" element={<Home/>}/>
+        <Route path="https://xtinct-79302.web.app" element={<Home/>}/>
         <Route path="/endangered" element={<Endangered/>}/>
         <Route path="/extinct" element={<Extinct/>}/>
         <Route path="/conservation" element={<Conservation/>}/>
