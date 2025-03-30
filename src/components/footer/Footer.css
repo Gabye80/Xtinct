@@ -9,14 +9,15 @@
 
 .footer-phrase{
     font-family: 'Plus Jakarta Sans';
-    font-size: x-large;
+    font-size: large;
+    padding-top: 1.5em;
     inline-size: 20vw;
 }
 
 hr{
     border-style: solid;
     border-bottom-width: 1px;
-    margin-top: 1rem;
+    margin-top: 0.5em;
     border-color: gray;
     display: flex;
     width: 18vw;
@@ -25,4 +26,9 @@ hr{
 li img{
     height: 1em;
     width: auto;
+}
+
+.footer-socials a,
+.footer-pages a{
+    text-decoration: none;
 }

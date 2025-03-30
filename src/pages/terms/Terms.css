@@ -1,0 +1,37 @@
+.terms-body {
+  background: url("../../img/forest_bg.png") top;
+}
+
+.terms-page {
+    margin-left: 15vw;
+    margin-right: 15vw;
+    width: 70vw;
+    background-color: #000000b3;
+}
+
+.terms-page p{
+    color: white;
+    text-align: justify;
+    padding:2em;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.terms-page h2{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    margin-bottom: 1em;
+}
+
+.privacy-policy,
+.terms-and-conditions,
+.copyright{
+    padding: 3em;
+    background-color: rgba(0, 0, 0, 0.53);
+}
+
+.copyright p{
+    text-align: center;
+}

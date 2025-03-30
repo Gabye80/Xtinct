@@ -4,6 +4,7 @@ import Endangered from "./pages/endangered/Endangered";
 import Extinct from "./pages/extinct/Extinct";
 import Conservation from "./pages/Conservation/Conservation";
 import "./i18n";
+import Terms from "./pages/terms/Terms";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Route path="/endangered" element={<Endangered/>}/>
         <Route path="/extinct" element={<Extinct/>}/>
         <Route path="/conservation" element={<Conservation/>}/>
+        <Route path="/terms-and-services" element={<Terms/>}/>
       </Routes>
     </BrowserRouter>
   );
