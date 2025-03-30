@@ -1,17 +1,20 @@
 [
   {
+    "id": "woolly-mice",
     "title": "Scientists Revive Woolly Mice",
     "description": "A breakthrough in genetic engineering has led to the revival of woolly mice, a species that once roamed icy terrains.",
     "image": "../../img/wooly_mouse.jpg",
     "link": "https://www.nature.com/articles/d41586-025-00684-1"
   },
   {
+    "id": "iberian-lynx",
     "title": "New LIFE for the Iberian Lynx: 20 years of conservation success",
     "description": "After two decades of hard work to bring the Iberian Lynx back from the brink of extinction, one of LIFE’s main goals - to move this iconic species out of the Red List Endangered category - has been achieved ahead of schedule.",
     "image": "../../img/lynx_life.png",
     "link": "https://cinea.ec.europa.eu/news-events/news/new-life-iberian-lynx-20-years-conservation-success-2024-09-10_en"
   },
   {
+    "id": "tasmanian-tiger",
     "title": "Tasmanian Tiger Revival Project",
     "description": "A de-extinction project is working on bringing back the Tasmanian tiger through genetic cloning.",
     "image": "../img/tasmanian_tiger.jpg",

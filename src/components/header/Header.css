@@ -50,11 +50,12 @@ ul {
   padding: 20px;
 }
 
-a:hover{
-  cursor: pointer;
-}
-
 a{
   color: white;
   font-size: large;
+  padding-top: 2em;
+}
+
+.header-routes a:hover{
+  cursor: pointer;
 }

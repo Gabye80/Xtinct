@@ -37,6 +37,7 @@ function Conservation() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="news-card"
+                id={article.id}
               >
                 <img src={article.image} alt={article.title} />
                 <h2>{article.title}</h2>
