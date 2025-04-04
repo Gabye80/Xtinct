@@ -1,0 +1,23 @@
+{
+  "endangeredSuggestion": [
+    {
+      "endangeredName": "TestEndangered",
+      "scientificName": "TestScientific",
+      "comment": "Comment about endangered species"
+    }
+  ],
+  "extinctSuggestion": [
+    {
+      "extinctName": "TestExtinct",
+      "scientificName": "TestScientific",
+      "comment": "Comment about extinct species"
+    }
+  ],
+  "newsSuggestion": [
+    {
+      "newsDescription": "Test Description News",
+      "newsLink": "https://linktonewsarticle.com",
+      "comment": "Comment about news"
+    }
+  ]
+}

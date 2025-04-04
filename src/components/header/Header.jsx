@@ -38,6 +38,9 @@ function Header() {
             <ul onClick={routeConservation}>
               <a>Conservation</a>
             </ul>
+            <ul >
+              <a href="/Suggestions">Suggestions</a>
+            </ul>
           </div>
         </div>
       </header>

@@ -1,0 +1,76 @@
+.suggests-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  align-content: center;
+}
+
+.suggest-card {
+  background: #f7fff8;
+  border: 1px solid #c8e6c9;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.suggest-card:hover {
+  transform: scale(1.02);
+}
+
+.suggest-card strong {
+  font-size: 1.2rem;
+}
+
+.suggest-card p {
+  margin: 0.5rem 0;
+  border-radius: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+}
+
+.card-buttons {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.card-buttons button {
+  background: #66bb6a;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.card-buttons button:hover {
+  background: #388e3c;
+}
+
+.delete-btn {
+  background: #ffb2b2;
+  padding: 1em;
+  border-radius: 25px;
+  margin-inline: 1em;
+  width: 10em;
+}
+
+.delete-btn:hover {
+  background: #d32f2f;
+  padding: 1em;
+  border-radius: 25px;
+}
+
+.edit-btn {
+  background: #afffb3;
+  padding: 1em;
+  border-radius: 25px;
+  margin-inline: 1em;
+  width: 10em;
+}
+.edit-btn:hover {
+  background: #2e7d32;
+}

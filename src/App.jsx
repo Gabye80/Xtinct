@@ -5,6 +5,7 @@ import Extinct from "./pages/extinct/Extinct";
 import Conservation from "./pages/Conservation/Conservation";
 import "./i18n";
 import Terms from "./pages/terms/Terms";
+import Suggestions from "./pages/suggestions/Suggestions";
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path="/extinct" element={<Extinct/>}/>
         <Route path="/conservation" element={<Conservation/>}/>
         <Route path="/terms-and-services" element={<Terms/>}/>
+        <Route path="/suggestions" element={<Suggestions/>}/>
       </Routes>
     </BrowserRouter>
   );

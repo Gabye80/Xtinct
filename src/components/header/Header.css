@@ -54,6 +54,7 @@ a{
   color: white;
   font-size: large;
   padding-top: 2em;
+  text-decoration: none;
 }
 
 .header-routes a:hover{

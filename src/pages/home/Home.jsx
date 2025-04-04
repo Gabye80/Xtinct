@@ -24,14 +24,15 @@ function Home() {
             alt="XTINCT LOGO"
           ></img>
           <p>
-          "In every walk with nature one receives far more than he seeks." - John Muir
+            "In every walk with nature one receives far more than he seeks." -
+            John Muir
           </p>
           <div className="section-selector">
             <figure onClick={routeEndangered}>
               <img src="../../img/iberian_lynx.jpg" alt="Iberian Lynx"></img>
               <figcaption>Endangered</figcaption>
             </figure>
-            <figure onClick={routeExtinct}> 
+            <figure onClick={routeExtinct}>
               <img
                 src="../../img/tasmanian_tiger.jpg"
                 alt="Tasmanian Tiger"
@@ -49,10 +50,21 @@ function Home() {
             alt="Kenyan Black Rhino"
           ></img>
           <p>
-            What drives us is the love for all animals and species, and one of our objectives is to shed light on the 
-            importancy of learning about and helping in the efforts to protect endangered species or restore those extinct.
-            Visit our different pages to learn about some of the species in our world!
+            What drives us is the love for all animals and species, and one of
+            our objectives is to shed light on the importancy of learning about
+            and helping in the efforts to protect endangered species or restore
+            those extinct. Visit our different pages to learn about some of the
+            species in our world!
           </p>
+        </div>
+        <div className="home-suggest">
+          <h2>Suggestions</h2>
+          <a href="/suggestions">
+          <p>
+            Do you have suggestions for a species or news piece you think we
+            should include in our page? <br/>Click *here* to head to our Suggestions
+            page!
+          </p></a>
         </div>
       </div>
       <Footer />
